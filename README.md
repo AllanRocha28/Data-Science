@@ -13,4 +13,4 @@ Atualmente estou me aprofundando nas áreas da programação: **Data Science e R
 ## Meus Projetos
 
 **Links para me acharem:**
-* [Análise do naufrágio do Titanic] (https://corta.link/9sDdA)
+* [Análise do naufrágio do Titanic](https://corta.link/9sDdA)
