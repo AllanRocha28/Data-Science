@@ -6,7 +6,7 @@
 
 Meu nome é Allan, sou formado em física médica pela Universidade Federal do Rio de Janeiro (**UFRJ**).
 
-Trabalho na Rede D'Or São Luiz como físico médico do **Radiodiagnóstico** e mestrando no Instituto de Radioproteção e Dosimetria (**IRD**).
+Trabalho na Rede D'Or São Luiz como físico médico do **Radiodiagnóstico** e faço mestrado no Instituto de Radioproteção e Dosimetria (**IRD**).
 
 Aqui você encontrará meus projetos nas áreas de **Data Science** e de Desenvolvimento Web em **ReactJS**.
 
