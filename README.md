@@ -13,3 +13,4 @@ Aqui você encontrará meus projetos na área de **Data Science**.
 ## Meus Projetos no Linkedin
 
 * [Análise do naufrágio do Titanic](https://corta.link/9sDdA)
+* [Setembro Amarelo: mês de prevenção ao suicídio](https://github.com/AllanRocha28/Data-Science/blob/main/Setembro_Amarelo_an%C3%A1lise_do_Brasil_e_do_mundo.ipynb)
