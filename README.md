@@ -11,6 +11,6 @@ Trabalho na Rede D'Or São Luiz como físico médico do **Radiodiagnóstico** e 
 Aqui você encontrará meus projetos nas áreas de **Data Science** e de Desenvolvimento Web em **ReactJS**.
 
 
-## Meus Projetos
+## Meus Projetos no Linkedin
 
 * [Análise do naufrágio do Titanic](https://corta.link/9sDdA)
