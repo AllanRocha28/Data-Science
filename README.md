@@ -14,3 +14,4 @@ Aqui você encontrará meus projetos na área de **Data Science**.
 
 * [Análise do naufrágio do Titanic](https://corta.link/9sDdA)
 * [Setembro Amarelo: mês de prevenção ao suicídio](https://github.com/AllanRocha28/Data-Science/blob/main/Setembro_Amarelo_an%C3%A1lise_do_Brasil_e_do_mundo.ipynb)
+* [Airbnb: Bérgamo, província da Lombardia](https://github.com/AllanRocha28/Data-Science/blob/main/Analisando_os_Dados_do_Airbnb_Bergamo.ipynb)
