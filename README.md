@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-Allan-red.svg)](https://www.linkedin.com/in/allan-h-rocha/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AllanRocha28/Data-Science)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98231873/157772039-577194ea-27f1-4444-97d4-8a2d93b3f39d.png" alt="imagem de uma mar de dados"height=400px >
+  <img src="https://img.freepik.com/fotos-gratis/fundo-abstrato-com-design-baixo-poli_1048-8478.jpg?w=740&t=st=1647891468~exp=1647892068~hmac=63343ae9bb8eeead67049989b88e6abff35dccc246c69b64eeb8501413f9391e"height=400px >
 </p>
 
 Meu nome é Allan, sou formado em física médica pela Universidade Federal do Rio de Janeiro (**UFRJ**).
